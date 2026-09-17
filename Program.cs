@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace תרגול_כיתה
 {
     //עבודה מהגיט
+    // gus 
     /*public class jumper
     {
         private string id;
